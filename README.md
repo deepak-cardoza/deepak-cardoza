@@ -19,7 +19,7 @@
 > AWS Cloud Native
 
 <div style="overflow-x:auto;">
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center" width="14%">
       <a href="#">
@@ -66,7 +66,7 @@
 > AWS Cloud Services
 
 <div style="overflow-x:auto;">
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center" width="14%">
       <a href="#">
@@ -119,7 +119,7 @@
 > Web Development
 
 <div style="overflow-x:auto;">
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center" width="14%">
       <a href="#">
