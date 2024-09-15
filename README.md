@@ -18,42 +18,42 @@
 
 > AWS Cloud Native
 
-<div style="overflow-x:auto;">
-<table align="center" border="0">
+<div style="overflow-x:auto; border: 0;">
+<table style="border-collapse: collapse; width: 100%; border: 0;" align="center">
   <tr>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/node-js-transparent.png" width="80" height="auto" alt="Node.js" />
+        <img src="./img/node-js-transparent.png" width="80" height="auto" alt="Node.js" style="display: block; margin: auto;"/>
       </a>
       <br>Node.js
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/python.png" width="80" height="auto" alt="Python" />
+        <img src="./img/python.png" width="80" height="auto" alt="Python" style="display: block; margin: auto;"/>
       </a>
       <br>Python
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/mongodb.png" width="80" height="auto" alt="MongoDB" />
+        <img src="./img/mongodb.png" width="80" height="auto" alt="MongoDB" style="display: block; margin: auto;"/>
       </a>
       <br>MongoDB
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/mysql.png" width="80" height="auto" alt="MySQL" />
+        <img src="./img/mysql.png" width="80" height="auto" alt="MySQL" style="display: block; margin: auto;"/>
       </a>
       <br>MySQL
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/aws.png" width="80" height="auto" alt="AWS Cloud" />
+        <img src="./img/aws.png" width="80" height="auto" alt="AWS Cloud" style="display: block; margin: auto;"/>
       </a>
       <br>AWS Cloud
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/Swagger.png" width="80" height="auto" alt="Swagger" />
+        <img src="./img/Swagger.png" width="80" height="auto" alt="Swagger" style="display: block; margin: auto;"/>
       </a>
       <br>Swagger
     </td>
@@ -65,48 +65,48 @@
 
 > AWS Cloud Services
 
-<div style="overflow-x:auto;">
-<table align="center" border="0">
+<div style="overflow-x:auto; border: 0;">
+<table style="border-collapse: collapse; width: 100%; border: 0;" align="center">
   <tr>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/lambda.png" width="80" height="auto" alt="AWS Lambda" />
+        <img src="./img/lambda.png" width="80" height="auto" alt="AWS Lambda" style="display: block; margin: auto;"/>
       </a>
       <br>AWS Lambda
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/api-gateway.png" width="80" height="auto" alt="Amazon API Gateway" />
+        <img src="./img/api-gateway.png" width="80" height="auto" alt="Amazon API Gateway" style="display: block; margin: auto;"/>
       </a>
       <br>Amazon API Gateway
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/dynamodb.png" width="80" height="auto" alt="Amazon DynamoDB" />
+        <img src="./img/dynamodb.png" width="80" height="auto" alt="Amazon DynamoDB" style="display: block; margin: auto;"/>
       </a>
       <br>Amazon DynamoDB
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/rds.png" width="80" height="auto" alt="Amazon RDS" />
+        <img src="./img/rds.png" width="80" height="auto" alt="Amazon RDS" style="display: block; margin: auto;"/>
       </a>
       <br>Amazon RDS
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/aws-cloudwatch-logo.png" width="80" height="auto" alt="Amazon CloudWatch" />
+        <img src="./img/aws-cloudwatch-logo.png" width="80" height="auto" alt="Amazon CloudWatch" style="display: block; margin: auto;"/>
       </a>
       <br>Amazon CloudWatch
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/EC2.png" width="80" height="auto" alt="Amazon EC2" />
+        <img src="./img/EC2.png" width="80" height="auto" alt="Amazon EC2" style="display: block; margin: auto;"/>
       </a>
       <br>Amazon EC2
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/s3.png" width="80" height="auto" alt="Amazon S3" />
+        <img src="./img/s3.png" width="80" height="auto" alt="Amazon S3" style="display: block; margin: auto;"/>
       </a>
       <br>Amazon S3
     </td>
@@ -118,54 +118,54 @@
 
 > Web Development
 
-<div style="overflow-x:auto;">
-<table align="center" border="0">
+<div style="overflow-x:auto; border: 0;">
+<table style="border-collapse: collapse; width: 100%; border: 0;" align="center">
   <tr>
-    <td align="center" width="14%">
+    <td align="center" width="12%" style="border: 0;">
       <a href="#">
-        <img src="./img/html.png" width="80" height="auto" alt="HTML" />
+        <img src="./img/html.png" width="80" height="auto" alt="HTML" style="display: block; margin: auto;"/>
       </a>
       <br>HTML
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="12%" style="border: 0;">
       <a href="#">
-        <img src="./img/css-logo.png" width="55" height="auto" alt="CSS" />
+        <img src="./img/css-logo.png" width="55" height="auto" alt="CSS" style="display: block; margin: auto;"/>
       </a>
       <br>CSS
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="12%" style="border: 0;">
       <a href="#">
-        <img src="./img/js.png" width="80" height="auto" alt="JS" />
+        <img src="./img/js.png" width="80" height="auto" alt="JS" style="display: block; margin: auto;"/>
       </a>
       <br>JS
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="12%" style="border: 0;">
       <a href="#">
-        <img src="./img/bootstrap.png" width="80" height="auto" alt="Bootstrap" />
+        <img src="./img/bootstrap.png" width="80" height="auto" alt="Bootstrap" style="display: block; margin: auto;"/>
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="12%" style="border: 0;">
       <a href="#">
-        <img src="./img/jquery.png" width="80" height="auto" alt="jQuery" />
+        <img src="./img/jquery.png" width="80" height="auto" alt="jQuery" style="display: block; margin: auto;"/>
       </a>
       <br>jQuery
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="12%" style="border: 0;">
       <a href="#">
-        <img src="./img/ajax.png" width="80" height="auto" alt="AJAX" />
+        <img src="./img/ajax.png" width="80" height="auto" alt="AJAX" style="display: block; margin: auto;"/>
       </a>
       <br>AJAX
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="12%" style="border: 0;">
       <a href="#">
-        <img src="./img/php.png" width="80" height="auto" alt="PHP" />
+        <img src="./img/php.png" width="80" height="auto" alt="PHP" style="display: block; margin: auto;"/>
       </a>
       <br>PHP
     </td>
-    <td align="center" width="14%">
+    <td align="center" width="12%" style="border: 0;">
       <a href="#">
-        <img src="./img/mysql.png" width="80" height="auto" alt="MySQL" />
+        <img src="./img/mysql.png" width="80" height="auto" alt="MySQL" style="display: block; margin: auto;"/>
       </a>
       <br>MySQL
     </td>
