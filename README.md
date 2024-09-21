@@ -53,7 +53,7 @@
     </td>
     <td align="center" width="14%" style="border: 0;">
       <a href="#">
-        <img src="./img/serverless.png" width="80" height="auto" alt="Serverless Framework" style="display: block; margin: auto;"/>
+        <img src="./img/serverless-2.png" width="80" height="auto" alt="Serverless Framework" style="display: block; margin: auto;"/>
       </a>
       <br>Serverless Framework
     </td>
